@@ -7,16 +7,17 @@ theme = 'PaperMod'
 defaultContentLanguage = "zh-cn"
 defaultContentLanguageInSubdir = false
 
+# 分页设置 - 首页显示文章数量
+[pagination]
+  pagerSize = 5
+  path = "page"
+
 [languages]
   [languages.zh-cn]
     languageName = "中文"
     languageCode = "zh-cn"
     weight = 1
     title = "Leaf Zhao 的博客"
-    
-    [languages.zh-cn.params]
-      homeInfoParams.Title = "欢迎来到 Leaf Zhao 的博客"
-      homeInfoParams.Content = "这里分享技术文章、生活感悟和个人思考"
     
     [[languages.zh-cn.menu.main]]
       identifier = "home"
@@ -53,10 +54,6 @@ defaultContentLanguageInSubdir = false
     languageCode = "en-us"
     weight = 2
     title = "Leaf Zhao's Blog"
-    
-    [languages.en.params]
-      homeInfoParams.Title = "Welcome to Leaf Zhao's Blog"
-      homeInfoParams.Content = "Sharing tech articles, life insights and personal thoughts"
     
     [[languages.en.menu.main]]
       identifier = "home"
@@ -119,7 +116,7 @@ defaultContentLanguageInSubdir = false
   # 语言切换
   ShowLanguageSwitcher = true
 
-  # 首页设置
+  # 首页设置 - 显示欢迎信息和文章列表
   [params.homeInfoParams]
     Title = "欢迎来到 Leaf Zhao 的博客"
     Content = "这里分享技术文章、生活感悟和个人思考"
