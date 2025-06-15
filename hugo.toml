@@ -1,4 +1,190 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://leafzhao.github.io/'
+languageCode = 'zh-cn'
+title = 'Leaf Zhao 的博客'
 theme = 'PaperMod'
+
+# 多语言支持
+defaultContentLanguage = "zh-cn"
+defaultContentLanguageInSubdir = false
+
+[languages]
+  [languages.zh-cn]
+    languageName = "中文"
+    languageCode = "zh-cn"
+    weight = 1
+    title = "Leaf Zhao 的博客"
+    
+    [languages.zh-cn.params]
+      homeInfoParams.Title = "欢迎来到 Leaf Zhao 的博客"
+      homeInfoParams.Content = "这里分享技术文章、生活感悟和个人思考"
+    
+    [[languages.zh-cn.menu.main]]
+      identifier = "home"
+      name = "首页"
+      url = "/"
+      weight = 10
+    
+    [[languages.zh-cn.menu.main]]
+      identifier = "posts"
+      name = "文章"
+      url = "/posts/"
+      weight = 20
+    
+    [[languages.zh-cn.menu.main]]
+      identifier = "archives"
+      name = "归档"
+      url = "/archives/"
+      weight = 30
+    
+    [[languages.zh-cn.menu.main]]
+      identifier = "tags"
+      name = "标签"
+      url = "/tags/"
+      weight = 40
+    
+    [[languages.zh-cn.menu.main]]
+      identifier = "search"
+      name = "搜索"
+      url = "/search/"
+      weight = 50
+
+  [languages.en]
+    languageName = "English"
+    languageCode = "en-us"
+    weight = 2
+    title = "Leaf Zhao's Blog"
+    
+    [languages.en.params]
+      homeInfoParams.Title = "Welcome to Leaf Zhao's Blog"
+      homeInfoParams.Content = "Sharing tech articles, life insights and personal thoughts"
+    
+    [[languages.en.menu.main]]
+      identifier = "home"
+      name = "Home"
+      url = "/en/"
+      weight = 10
+    
+    [[languages.en.menu.main]]
+      identifier = "posts"
+      name = "Posts"
+      url = "/en/posts/"
+      weight = 20
+    
+    [[languages.en.menu.main]]
+      identifier = "archives"
+      name = "Archives"
+      url = "/en/archives/"
+      weight = 30
+    
+    [[languages.en.menu.main]]
+      identifier = "tags"
+      name = "Tags"
+      url = "/en/tags/"
+      weight = 40
+    
+    [[languages.en.menu.main]]
+      identifier = "search"
+      name = "Search"
+      url = "/en/search/"
+      weight = 50
+
+[params]
+  env = "production"
+  title = "Leaf Zhao 的博客"
+  description = "分享技术、生活和思考的个人博客"
+  keywords = ["博客", "技术", "生活", "分享", "Leaf Zhao"]
+  author = "Leaf Zhao"
+  images = ["/img/avatar.png"]
+  
+  # 博客设置
+  DateFormat = "2006-01-02"
+  defaultTheme = "auto"
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowToc = true
+  TocOpen = false
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = true
+  tocopen = false
+  
+  # 语言切换
+  ShowLanguageSwitcher = true
+
+  # 首页设置
+  [params.homeInfoParams]
+    Title = "欢迎来到 Leaf Zhao 的博客"
+    Content = "这里分享技术文章、生活感悟和个人思考"
+
+  # 社交链接
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/leafzhao"
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:leafzhao@example.com"
+
+  # 搜索设置
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    threshold = 0.4
+    minMatchCharLength = 0
+    keys = ["title", "permalink", "summary", "content"]
+
+# 输出格式
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
+# 分类设置
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+# Markdown设置
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    style = "github"
+
+# 站点地图
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+# 隐私设置
+[privacy]
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+  [privacy.instagram]
+    disabled = false
+    simple = true
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
