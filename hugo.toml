@@ -178,7 +178,7 @@ defaultContentLanguageInSubdir = false
   [privacy.vimeo]
     disabled = false
     simple = true
-  [privacy.twitter]
+  [privacy.x]
     disabled = false
     enableDNT = true
     simple = true
