@@ -32,22 +32,10 @@ defaultContentLanguageInSubdir = false
       weight = 20
     
     [[languages.zh-cn.menu.main]]
-      identifier = "archives"
-      name = "归档"
-      url = "/archives/"
-      weight = 30
-    
-    [[languages.zh-cn.menu.main]]
       identifier = "tags"
       name = "标签"
       url = "/tags/"
-      weight = 40
-    
-    [[languages.zh-cn.menu.main]]
-      identifier = "search"
-      name = "搜索"
-      url = "/search/"
-      weight = 50
+      weight = 30
 
   [languages.en]
     languageName = "English"
@@ -68,22 +56,10 @@ defaultContentLanguageInSubdir = false
       weight = 20
     
     [[languages.en.menu.main]]
-      identifier = "archives"
-      name = "Archives"
-      url = "/en/archives/"
-      weight = 30
-    
-    [[languages.en.menu.main]]
       identifier = "tags"
       name = "Tags"
       url = "/en/tags/"
-      weight = 40
-    
-    [[languages.en.menu.main]]
-      identifier = "search"
-      name = "Search"
-      url = "/en/search/"
-      weight = 50
+      weight = 30
 
 [params]
   env = "production"
@@ -116,10 +92,11 @@ defaultContentLanguageInSubdir = false
   # 语言切换
   ShowLanguageSwitcher = true
 
-  # 首页设置 - 显示欢迎信息和文章列表
-  [params.homeInfoParams]
-    Title = "欢迎来到 Leaf Zhao 的博客"
-    Content = "这里分享技术文章、生活感悟和个人思考"
+  # 首页设置 - 显示文章列表而不是欢迎页面
+  # 注释掉homeInfoParams以显示文章列表
+  # [params.homeInfoParams]
+  #   Title = "欢迎来到 Leaf Zhao 的博客"
+  #   Content = "这里分享技术文章、生活感悟和个人思考"
 
   # 社交链接
   [[params.socialIcons]]
