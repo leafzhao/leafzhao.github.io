@@ -1,3 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Leaf Zhao 的博客</title><link>https://leafzhao.github.io/posts/</link><description>Recent content in Posts on Leaf Zhao 的博客</description><image><title>Leaf Zhao 的博客</title><url>https://leafzhao.github.io/img/avatar.png</url><link>https://leafzhao.github.io/img/avatar.png</link></image><generator>Hugo -- 0.147.8</generator><language>zh-cn</language><lastBuildDate>Sun, 15 Jun 2025 21:50:41 +0100</lastBuildDate><atom:link href="https://leafzhao.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://leafzhao.github.io/posts/my-first-post/</link><pubDate>Sun, 15 Jun 2025 21:50:41 +0100</pubDate><guid>https://leafzhao.github.io/posts/my-first-post/</guid><description>&lt;p>&lt;strong>你好，世界！&lt;/strong>
 这是我的第一篇博文，使用 Hugo 和 GitHub Pages 搭建。
-感觉太酷了！&lt;/p></description></item><item><title>欢迎来到我的博客</title><link>https://leafzhao.github.io/posts/welcome-to-my-blog/</link><pubDate>Mon, 16 Dec 2024 10:00:00 +0100</pubDate><guid>https://leafzhao.github.io/posts/welcome-to-my-blog/</guid><description>这是我的第二篇博文，欢迎大家来到我的个人博客。</description></item></channel></rss>
+感觉太酷了！&lt;/p></description><content:encoded>&lt;p>&lt;strong>你好，世界！&lt;/strong>
+这是我的第一篇博文，使用 Hugo 和 GitHub Pages 搭建。
+感觉太酷了！&lt;/p>
+</content:encoded></item><item><title>欢迎来到我的博客</title><link>https://leafzhao.github.io/posts/welcome-to-my-blog/</link><pubDate>Mon, 16 Dec 2024 10:00:00 +0100</pubDate><guid>https://leafzhao.github.io/posts/welcome-to-my-blog/</guid><description>这是我的第二篇博文，欢迎大家来到我的个人博客。</description><content:encoded><![CDATA[<h2 id="欢迎来到我的博客">欢迎来到我的博客！</h2>
+<p>大家好！我是 Leaf Zhao，欢迎来到我的个人博客。</p>
+<h3 id="关于这个博客">关于这个博客</h3>
+<p>这个博客使用 Hugo 静态网站生成器和 PaperMod 主题构建，托管在 GitHub Pages 上。我会在这里分享：</p>
+<ul>
+<li>技术学习心得</li>
+<li>编程经验总结</li>
+<li>生活感悟和思考</li>
+<li>有趣的项目和发现</li>
+</ul>
+<h3 id="博客特色">博客特色</h3>
+<ul>
+<li>🌐 支持中英双语切换</li>
+<li>🔍 全文搜索功能</li>
+<li>📱 响应式设计，移动端友好</li>
+<li>🏷️ 标签和分类系统</li>
+<li>📝 代码高亮显示</li>
+</ul>
+<p>希望大家能在这里找到有用的内容！</p>
+<p>如果你有任何问题或建议，欢迎通过 GitHub 或邮箱联系我。</p>
+<p>感谢访问！ 🎉</p>
+]]></content:encoded></item></channel></rss>
