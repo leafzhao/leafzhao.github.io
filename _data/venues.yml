@@ -1,0 +1,40 @@
+# Colours / links for the abbreviation badges shown next to each publication.
+"PoP":
+  url: https://pubs.aip.org/aip/pop
+  color: "#00507a"
+"RSI":
+  url: https://pubs.aip.org/aip/rsi
+  color: "#1a6aa5"
+"MRE":
+  url: https://pubs.aip.org/aip/mre
+  color: "#2a7f62"
+"JAP":
+  url: https://pubs.aip.org/aip/jap
+  color: "#3d6f99"
+"NF":
+  url: https://iopscience.iop.org/journal/0029-5515
+  color: "#b5412b"
+"PPCF":
+  url: https://iopscience.iop.org/journal/0741-3335
+  color: "#c0622b"
+"CPB":
+  url: https://iopscience.iop.org/journal/1674-1056
+  color: "#8a5a2b"
+"PRE":
+  url: https://journals.aps.org/pre/
+  color: "#6b2a8a"
+"HPLSE":
+  url: https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering
+  color: "#7a2a4a"
+"NIMA":
+  url: https://www.sciencedirect.com/journal/nuclear-instruments-and-methods-in-physics-research-section-a-accelerators-spectrometers-detectors-and-associated-equipment
+  color: "#e07b00"
+"Front. Phys.":
+  url: https://www.frontiersin.org/journals/physics
+  color: "#d6002a"
+"Acta Phys. Sin.":
+  url: https://wulixb.iphy.ac.cn/
+  color: "#555555"
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"

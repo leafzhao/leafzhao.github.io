@@ -1,0 +1,128 @@
+cv:
+  name: Xu Zhao
+  label: Researcher in laser–plasma interaction
+  location: York, United Kingdom
+  image: ""
+  summary: >-
+    Experimental physicist working on laser–plasma interaction and inertial confinement fusion,
+    with a focus on laser–plasma instabilities, scattered-light diagnostics and X-ray imaging
+    of laser-driven shocks.
+
+  social_networks:
+    - network: GitHub
+      username: leafzhao
+
+  sections:
+    # TODO: fill in Education and Experience — they are left commented out so
+    # nothing inaccurate is published. Uncomment and edit, keeping the format.
+    #
+    # Education:
+    #   - institution: University Name
+    #     location: City, Country
+    #     url: https://www.example.edu/
+    #     area: Physics
+    #     studyType: PhD
+    #     start_date: 2019
+    #     end_date: 2024
+    #     highlights:
+    #       - "Thesis: ..."
+    #
+    # Experience:
+    #   - company: University of York
+    #     position: Your position
+    #     location: York, United Kingdom
+    #     start_date: 2024
+    #     end_date: present
+    #     summary: What you work on.
+    #     highlights:
+    #       - Highlight 1.
+
+    Academic Interests:
+      - name: Laser–plasma interaction
+        icon: fa-solid fa-bolt
+        keywords:
+          - "Laser–plasma instabilities"
+          - "stimulated Raman scattering"
+          - "broadband lasers"
+          - "direct-drive and double-cone ignition"
+      - name: Plasma diagnostics
+        icon: fa-solid fa-microscope
+        keywords:
+          - "Angular-resolved scattered-light diagnostics"
+          - "X-ray phase-contrast imaging"
+          - "X-ray streak cameras"
+          - "ion spectrometers"
+      - name: Experimental facilities
+        icon: fa-solid fa-flask
+        keywords:
+          - "Shenguang-II Upgrade"
+          - "GSI PHELIX"
+
+    # Selected first-author journal articles and conference presentations.
+    # The complete list is generated from _bibliography/papers.bib on /publications/.
+    Publications:
+      - title: Measurements of laser-plasma instabilities in double-cone ignition experiments relevant to the direct-drive conditions at Shenguang-II Upgrade laser facility
+        authors:
+          - X. Zhao
+          - X. H. Yuan
+          - Y. F. Dong
+          - K. Glize
+          - et al.
+        publisher: Nuclear Fusion 64, 086069
+        releaseDate: 2024-07
+        url: https://doi.org/10.1088/1741-4326/ad5e98
+
+      - title: Measurement of stimulated Raman side-scattering predominance in directly driven experiment
+        authors:
+          - K. Glize
+          - X. Zhao
+          - Y. H. Zhang
+          - et al.
+        publisher: Physics of Plasmas 30, 122706
+        releaseDate: 2023-12
+        url: https://doi.org/10.1063/5.0180607
+
+      - title: An angular-resolved scattered-light diagnostic for laser-plasma instability studies
+        authors:
+          - X. Zhao
+          - X. H. Yuan
+          - J. Zheng
+          - Y. F. Dong
+          - et al.
+        publisher: Review of Scientific Instruments 93, 053505
+        releaseDate: 2022-05
+        url: https://doi.org/10.1063/5.0090841
+
+      - title: "Propagation-based X-ray phase contrast imaging of laser-driven shocks in planar targets at the GSI PHELIX laser facility"
+        authors:
+          - X. Zhao
+          - et al.
+        publisher: "Presentation — 52nd EPS Conference on Plasma Physics"
+        releaseDate: 2026
+
+      - title: "Phase and absorption based X-ray imaging of laser-driven shocks – a platform for laser imprint studies"
+        authors:
+          - X. Zhao
+          - et al.
+        publisher: "Presentation — 21st Direct Drive and Fast Ignition Workshop"
+        releaseDate: 2026
+
+      - title: "Addressing the measurement gap in laser–plasma instability studies via fibre-based scattered light diagnostics"
+        authors:
+          - X. Zhao
+          - et al.
+        publisher: "Presentation — 21st Direct Drive and Fast Ignition Workshop"
+        releaseDate: 2026
+
+      - title: "A perspective on advanced data management for high-power laser facilities"
+        authors:
+          - X. Zhao
+        publisher: "Presentation — 21st Direct Drive and Fast Ignition Workshop"
+        releaseDate: 2026
+
+      - title: "Angular-resolved scattered light diagnostics for laser-plasma instability studies in inertial confinement fusion"
+        authors:
+          - X. Zhao
+          - et al.
+        publisher: "Presentation — 6th European Conference on Plasma Diagnostics"
+        releaseDate: 2025

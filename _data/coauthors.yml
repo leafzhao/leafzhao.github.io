@@ -1,0 +1,5 @@
+# Links for co-author names in the publication list (optional).
+# "lastname":
+#   - firstname: ["First", "F."]
+#     url: https://example.org
+{}
