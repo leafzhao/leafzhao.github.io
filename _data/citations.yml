@@ -1,0 +1,115 @@
+metadata:
+  last_updated: '2026-11-21'
+papers:
+  FBvFs0cAAAAJ:eQOLeE2rZwMC:
+    citations: 24
+    title: "Measurement of stimulated Raman side-scattering predominance in directly driven experiment"
+    year: "2023"
+  FBvFs0cAAAAJ:u-x6o8ySG0sC:
+    citations: 14
+    title: "An angular-resolved scattered-light diagnostic for laser-plasma instability studies"
+    year: "2022"
+  FBvFs0cAAAAJ:MXK_kJrjxJIC:
+    citations: 11
+    title: "Experimental study of laser plasma instabilities with broadband laser pulses at the GSI PHELIX laser facility"
+    year: "2025"
+  FBvFs0cAAAAJ:Tyk-4Ss8FVUC:
+    citations: 10
+    title: "An angular-resolved multi-channel Thomson parabola spectrometer for laser-driven ion measurement"
+    year: "2018"
+  FBvFs0cAAAAJ:roLk4NBRz8UC:
+    citations: 8
+    title: "Measurements of laser-plasma instabilities in double-cone ignition experiments relevant to the direct-drive conditions at Shenguang-II Upgrade laser facility"
+    year: "2024"
+  FBvFs0cAAAAJ:_FxGoFyzp5QC:
+    citations: 8
+    title: "Development of a monochromatic crystal backlight imager for the recent double-cone ignition experiments"
+    year: "2024"
+  FBvFs0cAAAAJ:8k81kl-MbHgC:
+    citations: 5
+    title: "Investigation of ruling parameters on the growth of side and back stimulated Raman scattering in inhomogeneous plasmas at shock ignition laser intensity"
+    year: "2025"
+  FBvFs0cAAAAJ:9yKSN-GCB0IC:
+    citations: 5
+    title: "Ion beam stopping power effects on nuclear fusion reactions"
+    year: "2022"
+  FBvFs0cAAAAJ:zYLM7Y9cAGgC:
+    citations: 5
+    title: "Simulation of microchannel plate photomultiplier tube in high magnetic fields"
+    year: "2019"
+  FBvFs0cAAAAJ:Se3iqnhoufwC:
+    citations: 4
+    title: "Efficient energy transport throughout conical implosions"
+    year: "2024"
+  FBvFs0cAAAAJ:d1gkVwhDpl0C:
+    citations: 4
+    title: "Effects of second-order dispersion of ultrashort laser pulse on stimulated Raman scattering"
+    year: "2022"
+  FBvFs0cAAAAJ:UeHWp8X0CEIC:
+    citations: 4
+    title: "A novel bowl-shaped microchannel plate with high electron collection efficiency and good time performance"
+    year: "2019"
+  FBvFs0cAAAAJ:0EnyYjriUFMC:
+    citations: 3
+    title: "The impact of target parameters on the collision process and hot-spot performance in the double-cone ignition scheme"
+    year: "2025"
+  FBvFs0cAAAAJ:3fE2CSJIrl8C:
+    citations: 2
+    title: "Collective effect of stimulated Raman side scattering in multibeam processes and its competition with other instabilities relevant to direct-drive scheme"
+    year: "2026"
+  FBvFs0cAAAAJ:5nxA0vEk-isC:
+    citations: 2
+    title: "A two-dimensional imaging enabled x-ray streak camera system"
+    year: "2025"
+  FBvFs0cAAAAJ:kNdYIx-mwKoC:
+    citations: 2
+    title: "利用气泡探测器测量激光快中子"
+    year: "2018"
+  FBvFs0cAAAAJ:ufrVoPGSRksC:
+    citations: 1
+    title: "Model magnetospheric accretion and bipolar jets with intense lasers"
+    year: "2024"
+  FBvFs0cAAAAJ:qjMakFHDy7sC:
+    citations: 1
+    title: "Signal recovery of a Fabry–Pérot interferometric x-ray pulse detector based on the RadOptic effect"
+    year: "2022"
+  FBvFs0cAAAAJ:_kc_bZDykSQC:
+    citations: 0
+    title: "Propagation-based X-ray phase contrast imaging of laser-driven shocks in planar targets at the GSI PHELIX laser facility"
+    year: "2026"
+  FBvFs0cAAAAJ:YOwf2qJgpHMC:
+    citations: 0
+    title: "Phase and absorption based X-ray imaging of laser-driven shocks – a platform for laser imprint studies"
+    year: "2026"
+  FBvFs0cAAAAJ:ULOm3_A8WrAC:
+    citations: 0
+    title: "A perspective on advanced data management for high-power laser facilities"
+    year: "2026"
+  FBvFs0cAAAAJ:Zph67rFs4hoC:
+    citations: 0
+    title: "Addressing the measurement gap in laser–plasma instability studies via fibre-based scattered light diagnostics"
+    year: "2026"
+  FBvFs0cAAAAJ:4TOpqqG69KYC:
+    citations: 0
+    title: "Angular-resolved scattered light diagnostics for laser-plasma instability studies in inertial confinement fusion"
+    year: "2025"
+  FBvFs0cAAAAJ:KlAtU1dfN6UC:
+    citations: 0
+    title: "Magnetohydrodynamics simulation of magnetic reconnection process based on the laser-driven Helmholtz capacitor-coil targets"
+    year: "2024"
+  FBvFs0cAAAAJ:UebtZRa9Y70C:
+    citations: 0
+    title: "Global scattered-light spectrography for laser absorption and laser–plasma instability studies"
+    year: "2024"
+  FBvFs0cAAAAJ:2osOgNQ5qMEC:
+    citations: 0
+    title: "Measurement of Stimulated Raman Side-Scattering Predominance and Energetic Importance in the Compression Stage of the Double-Cone Ignition Approach to Inertial Confinement Fusion"
+    year: "2022"
+  FBvFs0cAAAAJ:IjCSPb-OGe4C:
+    citations: 0
+    title: "Proton imaging of relativistic laser-produced near-critical-density plasma"
+    year: "2019"
+  FBvFs0cAAAAJ:M3ejUd6NZC8C:
+    citations: 0
+    title: "Observation and Mitigation of Kelvin–Helmholtz Instability-Driven Gold Contamination in Double-Cone Ignition"
+    year: ""
